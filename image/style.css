@@ -1,0 +1,141 @@
+body {
+	background: #ffa500;
+
+}
+
+.container {
+	background: white;
+	padding: 15px;
+	border: 10px inset brown;
+	 border-radius: 1%;
+	margin: 30px auto;
+	width: 95%; float: center;
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+    -webkit-column-gap: 50px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 50px; /* Firefox */
+    column-gap: 50px;
+    -webkit-column-rule: 1px solid brown; /* Chrome, Safari, Opera */
+    -moz-column-rule: 1px solid brown; /* Firefox */
+    column-rule: 1px solid brown;
+
+    }
+
+
+
+
+
+h1 {
+	text-align: center;
+	color: #ffa530;
+	font-family: Helvetica;
+	font-size: 5em;
+	background: none;
+	width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+   
+   }
+
+
+
+#banner {
+  background-image: url("https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-size: cover;
+  background-position: bottom center;
+  height: 700px;
+  width: 0 auto;
+  
+
+  
+}
+
+#banner .content h1 {
+  border: 3px solid white;
+   border-radius: 10%;
+  padding: 4px 200px;
+  position: relative;
+  top: 100px;
+  width: 400px;
+  margin: 0 auto;
+ 
+}
+
+
+
+
+
+
+
+    #table-of-contents { 
+	list-style: none;
+	position:relative;
+	top: 25px;
+	left: 25px;
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 21px;
+	width: 50%;
+	color: black;	
+    }
+
+
+    #table-of-contents a { 
+display: block ; 
+display- width: 30 px;
+padding: 5px; 
+color: black;
+text-decoration: none;
+
+}
+
+
+#table-of-contents a:hover { 
+	color: white; 
+	background: black;
+	text-decoration: none;
+
+	
+}
+img
+{ max-width: 100%;
+	padding-top: 1px;
+
+   }
+.eddddd {text-decoration: Helvetica;
+    color: white; 
+ 
+font-size: 20px;
+color:#ffa500
+}
+
+.eddddd {
+  width: 200px;
+  height: 200px;
+  background: #3cb201;
+  border: 2px inset #3cb201;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 100px;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.eddddd:hover {
+  border: 2px inset #ffa500;
+  background: #ffa500;
+  color: yellow;
+}
+
+.eddddd span {
+  display: block;
+  padding-top: 88px;
+}
+
+
+
+
+
+  
