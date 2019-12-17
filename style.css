@@ -1,0 +1,14 @@
+body {
+	background:#d3f4ff;
+
+}
+#banner {
+  background-image: url("https://images.pexels.com/photos/2162/sky-space-dark-galaxy.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"  );
+  background-size: cover;
+  background-position: bottom center;
+  height: 700 auto ;
+  width: 0 auto;
+  color: white
+
+ }
+
